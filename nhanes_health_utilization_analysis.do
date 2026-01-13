@@ -25,7 +25,7 @@ version 17
 ************************************************************
 * 1. Load Demographics Data
 ************************************************************
-use "DEMO_J.dta", clear   // 2017–2018 Demographics
+use "NHANES_DemoBMX.csv" = "DEMO_J.dta", clear   // 
 
 keep seqn ridageyr riagendr ridreth1 indfmpir wtint2yr sdmvpsu sdmvstra
 rename ridageyr age
