@@ -2,7 +2,8 @@
 
 This repository contains a Stata-based analysis using publicly available
 NHANES data to examine the relationship between insurance coverage and
-health care utilization among U.S. adults.
+health care utilization among U.S. adults. This project was created and 
+pasted in github for sharing. 
 
 ## Research Question
 How does insurance coverage relate to health care utilization among adults,
